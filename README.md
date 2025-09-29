@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **💬 machine learning, deep learning, data science, and AI model deployment.**
 
-- 📫 How to reach me **divcodings@gmail.com**
-
 - ⚡ Fun fact **I love diving into all tech - whether it’s AI, machine learning, or the latest in software development, I’m always excited to explore and learn something new!**
   
 <p align="left">
