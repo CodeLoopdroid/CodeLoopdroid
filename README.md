@@ -3,20 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="codeloopdroid" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codeloopdroid" alt="codeloopdroid" /></a> </p>
-
-- 🔭 I’m currently working on **🔭 building innovative AI and machine learning solutions to drive business growth and automation.**
-
-- 🌱 I’m currently learning **advanced machine learning techniques, model interpretability, and deep learning frameworks like TensorFlow and PyTorch.**
-
-- 👯 I’m looking to collaborate on **👯 innovative AI and machine learning projects that push the boundaries of technology.**
-
-- 🤝 I’m looking for help with **🤝 scaling machine learning models for real-world applications.**
-
-- 💬 Ask me about **💬 machine learning, deep learning, data science, and AI model deployment.**
-
-- ⚡ Fun fact **I love diving into all tech - whether it’s AI, machine learning, or the latest in software development, I’m always excited to explore and learn something new!**
-  
 <p align="left">
 </p>
 
