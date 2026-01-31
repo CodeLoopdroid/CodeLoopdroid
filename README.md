@@ -10,6 +10,12 @@ I love building smart solutions using <strong>Python</strong>, <strong>Golang</s
 I am also an <strong>Open Source Contributor</strong>, actively contributing to projects that solve real-world problems.
 </p>
 
+<h3 align="left">Open Source Contributions:</h3>
+<ul>
+  <li>Contributed to <a href="https://github.com/numpy/numpy/pull/30422" target="_blank">NumPy</a></li>
+  <li>Contributed to <a href="https://github.com/simstudioai/sim/pull/2426" target="_blank">SimStudio AI</a></li>
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
