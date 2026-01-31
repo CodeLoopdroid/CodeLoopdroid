@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Codeloopdroid</h1>
-<h3 align="center">AI & Machine Learning Engineer | Blockchain Enthusiast</h3>
+<h3 align="center">AI & Machine Learning Engineer | Blockchain Enthusiast | Open Source Contributor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codeloopdroid&label=Profile%20views&color=0e75b6&style=flat" alt="codeloopdroid" /> </p>
 
@@ -7,6 +7,7 @@
 <p align="left">
 I am passionate about <strong>AI/ML</strong> and <strong>Blockchain</strong>. 
 I love building smart solutions using <strong>Python</strong>, <strong>Golang</strong>, and <strong>Java</strong>.
+I am also an <strong>Open Source Contributor</strong>, actively contributing to projects that solve real-world problems.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
