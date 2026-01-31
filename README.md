@@ -8,6 +8,7 @@
 I am passionate about <strong>AI/ML</strong> and <strong>Blockchain</strong>. 
 I love building smart solutions using <strong>Python</strong>, <strong>Golang</strong>, and <strong>Java</strong>.
 I am also an <strong>Open Source Contributor</strong>, actively contributing to projects that solve real-world problems.
+In addition, I am an <strong>active competitive programmer</strong>, regularly solving challenges on <strong>LeetCode</strong> and <strong>Codeforces</strong> to sharpen my problem-solving and algorithms skills.
 </p>
 
 <h3 align="left">Open Source Contributions:</h3>
@@ -30,4 +31,10 @@ I am also an <strong>Open Source Contributor</strong>, actively contributing to 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a>
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">Coding Profiles:</h3>
+<p align="left">
+  <a href="https://leetcode.com/u/BeyondBinary/" target="_blank">LeetCode</a> | 
+  <a href="https://codeforces.com/profile/BrokeGuy" target="_blank">Codeforces</a>
 </p>
