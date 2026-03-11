@@ -41,6 +41,10 @@ In addition, I am an <strong>active competitive programmer</strong>, regularly s
 
 
 <h3 align="left">Connect with Me:</h3>
+
 <p align="left">
-💬 Discord: <strong>felix._505</strong>
+<a href="https://discord.com/app" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="discord" width="30" height="30"/>
+</a>
+<strong> felix._505</strong>
 </p>
