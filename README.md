@@ -42,5 +42,5 @@ In addition, I am an <strong>active competitive programmer</strong>, regularly s
 
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
-💬 <a href="https://discord.com/app" target="_blank">felix._505</a>
+💬 Discord: felix._505
 </p>
